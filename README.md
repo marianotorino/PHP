@@ -1,0 +1,1 @@
+Proyecto de aplicación web del seminario PHP.
