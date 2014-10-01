@@ -1,10 +1,43 @@
 body {
 	background-color:#FFC230;
 	}
+	
+a {
+	text-decoration:none;
+	color:#800000;
+}
 
-table {
+a:hover{
+	color:#101010;
+}
+
+.menu{
+	padding:6px;
+	color:#FFC230;
+	border-radius:15px;
+	background-color:#800000;
+
+}
+#form1 {
+	width:600px;
+}
+
+#form2 {
+	width:300px;
+}
+
+.grilla {
+	background-color:#F5DEB3;
+	border: 1px solid #000;
+	border-collapse: collapse;
+}
+
+.grilla th {
+	border: 1px solid #000;
 	background-color:#FFFFFF;
-	border-color:#000000;
-	border:1px;
-	border-style:solid;
+}
+
+.contenido {
+	border: 1px solid #000;
+	background-color:#F0E68C;
 }
